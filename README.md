@@ -5,9 +5,9 @@ We developed this as part of our college mini project, leveraging **MobileNetV2*
 
 ## 📊 Project Highlights
 
-- 📚 **Dataset**: 9,000 images across 9 fish species provided by **Azmir University, Turkey**
+- 📚 **Dataset**: 9,000 images across 9 fish species provided by **Ezmir University, Turkey**
 - 🧠 **Model**: MobileNetV2-based transfer learning model with custom classification layers
-- 🎯 **Test Accuracy**: Achieved **100% test accuracy**
+- 🎯 **Test Accuracy**: Achieved **95% test accuracy**
 - 📈 Included performance metrics: **Confusion Matrix**, **Precision, Recall, F1-Score**
 - 📊 Training and validation loss/accuracy graphs for visualization (in notebook file)
 
